@@ -1,0 +1,25 @@
+//
+//  MusicPlayer.pch
+//  UI_MP3Player
+//
+//  Created by 半夏 on 15/10/5.
+//  Copyright © 2015年 半夏. All rights reserved.
+//
+
+#ifndef MusicPlayer_pch
+#define MusicPlayer_pch
+
+
+#import "APPHeader.h"
+#import "IMPHeader.h"
+#import "KEYHeader.h"
+#import "URLHeader.h"
+
+
+
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* MusicPlayer_pch */
